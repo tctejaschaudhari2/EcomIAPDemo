@@ -30,7 +30,7 @@
 * EcomIAPDemo project is implemented using the <strong>Model-View-ViewModel (MVVM)</strong> architecture pattern.
 * EcomIAPDemo project is implemented using the <strong>Closure Pattern</strong>.
 * UIKit is used and has necessary design for the UI.
-* ViewModel has any necessary data or business logic needed to generate the EcomIAPDemo on HomeView.
+* ViewModel has any necessary data or business logic needed to generate the EcomIAPDemo on Listing Page.
 * View is responsible for displaying EcomIAPDemo on ViewController Class.
 * Model is available, whenever ViewModel sends new updates.<br><br>
 
