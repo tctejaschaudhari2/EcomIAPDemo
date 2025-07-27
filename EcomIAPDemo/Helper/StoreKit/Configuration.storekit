@@ -1,0 +1,152 @@
+{
+  "appPolicies" : {
+    "eula" : "",
+    "policies" : [
+      {
+        "locale" : "en_US",
+        "policyText" : "",
+        "policyURL" : ""
+      }
+    ]
+  },
+  "identifier" : "1FBE02ED",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "35",
+      "familyShareable" : false,
+      "internalID" : "32D21631",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "Classic Red Baseball Cap",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "clothes.classic_red_baseball_cap",
+      "referenceName" : "Classic Red Baseball Cap",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "25",
+      "familyShareable" : false,
+      "internalID" : "6258F092",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "Classic Comfort Fit Joggers",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "clothes.classic_comfort_fit_joggers",
+      "referenceName" : "Classic Comfort Fit Joggers",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "84",
+      "familyShareable" : false,
+      "internalID" : "FAA4AD44",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "Classic Olive Chino Shorts",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "clothes.classic_olive_chino_shorts",
+      "referenceName" : "Classic Olive Chino Shorts",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "43",
+      "familyShareable" : false,
+      "internalID" : "EB4E2D3C",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "Classic High-Waisted Athletic Shorts",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "clothes.classic_high_waisted_athletic_shorts",
+      "referenceName" : "Classic High-Waisted Athletic Shorts",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "39",
+      "familyShareable" : false,
+      "internalID" : "8F247080",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "Classic White Crew Neck T-Shirt",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "clothes.classic_white_crew_neck_t_shirt",
+      "referenceName" : "Classic White Crew Neck T-Shirt",
+      "type" : "Consumable"
+    }
+  ],
+  "settings" : {
+    "_failTransactionsEnabled" : false,
+    "_locale" : "en_US",
+    "_storefront" : "USA",
+    "_storeKitErrors" : [
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Load Products"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Purchase"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Verification"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Store Sync"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Subscription Status"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Transaction"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Manage Subscriptions Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Refund Request Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Offer Code Redeem Sheet"
+      }
+    ]
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 4,
+    "minor" : 0
+  }
+}

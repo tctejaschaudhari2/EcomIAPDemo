@@ -1,0 +1,66 @@
+[
+    {
+        "id": 72,
+        "title": "Classic Red Baseball Cap",
+        "slug": "classic-red-baseball-cap",
+        "productId": "clothes.classic_red_baseball_cap",
+        "price": 35,
+        "description": "Elevate your casual wardrobe with this timeless red baseball cap. Crafted from durable fabric, it features a comfortable fit with an adjustable strap at the back, ensuring one size fits all. Perfect for sunny days or adding a sporty touch to your outfit.",
+        "images": [
+            "https://i.imgur.com/cBuLvBi.jpeg",
+            "https://i.imgur.com/N1GkCIR.jpeg",
+            "https://i.imgur.com/kKc9A5p.jpeg"
+        ]
+    },
+    {
+        "id": 73,
+        "title": "Classic Comfort Fit Joggers",
+        "slug": "classic-comfort-fit-joggers",
+        "productId": "clothes.classic_comfort_fit_joggers",
+        "price": 25,
+        "description": "Discover the perfect blend of style and comfort with our Classic Comfort Fit Joggers. These versatile black joggers feature a soft elastic waistband with an adjustable drawstring, two side pockets, and ribbed ankle cuffs for a secure fit. Made from a lightweight and durable fabric, they are ideal for both active days and relaxed lounging.",
+        "images": [
+            "https://i.imgur.com/ZKGofuB.jpeg",
+            "https://i.imgur.com/GJi73H0.jpeg",
+            "https://i.imgur.com/633Fqrz.jpeg"
+        ]
+    },
+    {
+        "id": 74,
+        "title": "Classic Olive Chino Shorts",
+        "slug": "classic-olive-chino-shorts",
+        "productId": "clothes.classic_olive_chino_shorts",
+        "price": 84,
+        "description": "Elevate your casual wardrobe with these classic olive chino shorts. Designed for comfort and versatility, they feature a smooth waistband, practical pockets, and a tailored fit that makes them perfect for both relaxed weekends and smart-casual occasions. The durable fabric ensures they hold up throughout your daily activities while maintaining a stylish look.",
+        "images": [
+            "https://i.imgur.com/UsFIvYs.jpeg",
+            "https://i.imgur.com/YIq57b6.jpeg"
+        ]
+    },
+    {
+        "id": 75,
+        "title": "Classic High-Waisted Athletic Shorts",
+        "slug": "classic-high-waisted-athletic-shorts",
+        "productId": "clothes.classic_high_waisted_athletic_shorts",
+        "price": 43,
+        "description": "Stay comfortable and stylish with our Classic High-Waisted Athletic Shorts. Designed for optimal movement and versatility, these shorts are a must-have for your workout wardrobe. Featuring a figure-flattering high waist, breathable fabric, and a secure fit that ensures they stay in place during any activity, these shorts are perfect for the gym, running, or even just casual wear.",
+        "images": [
+            "https://i.imgur.com/eGOUveI.jpeg",
+            "https://i.imgur.com/UcsGO7E.jpeg",
+            "https://i.imgur.com/NLn4e7S.jpeg"
+        ]
+    },
+    {
+        "id": 76,
+        "title": "Classic White Crew Neck T-Shirt",
+        "slug": "classic-white-crew-neck-t-shirt",
+        "productId": "clothes.classic_white_crew_neck_t_shirt",
+        "price": 39,
+        "description": "Elevate your basics with this versatile white crew neck tee. Made from a soft, breathable cotton blend, it offers both comfort and durability. Its sleek, timeless design ensures it pairs well with virtually any outfit. Ideal for layering or wearing on its own, this t-shirt is a must-have staple for every wardrobe.",
+        "images": [
+            "https://i.imgur.com/axsyGpD.jpeg",
+            "https://i.imgur.com/T8oq9X2.jpeg",
+            "https://i.imgur.com/J6MinJn.jpeg"
+        ]
+    }
+]
