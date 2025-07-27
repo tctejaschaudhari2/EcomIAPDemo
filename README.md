@@ -49,4 +49,4 @@
 * AlamofireImage
 
 # API
-* EcomIAPDemo project uses following API: [WeatherAPI Documentation](https://my-json-server.typicode.com/tctejaschaudhari2/sampleEcomData/product).
+* EcomIAPDemo project uses following API: [JSONPLACEHOLDER](https://my-json-server.typicode.com/tctejaschaudhari2/sampleEcomData/product).
