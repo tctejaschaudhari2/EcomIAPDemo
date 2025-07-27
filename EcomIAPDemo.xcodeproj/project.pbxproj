@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		3A2C41E02E34E8D100F9BE17 /* Alamofire in Frameworks */ = {isa = PBXBuildFile; productRef = 3A2C41DF2E34E8D100F9BE17 /* Alamofire */; };
 		3A2C41F92E35063900F9BE17 /* AlamofireImage in Frameworks */ = {isa = PBXBuildFile; productRef = 3A2C41F82E35063900F9BE17 /* AlamofireImage */; };
+		3A9730B22E369DD1007BA1ED /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 3A9730B12E369DD1007BA1ED /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -26,6 +27,7 @@
 
 /* Begin PBXFileReference section */
 		3A2C41B02E34AF0300F9BE17 /* EcomIAPDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EcomIAPDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3A9730B12E369DD1007BA1ED /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -58,6 +60,7 @@
 		3A2C41A72E34AF0300F9BE17 = {
 			isa = PBXGroup;
 			children = (
+				3A9730B12E369DD1007BA1ED /* README.md */,
 				3A2C41B22E34AF0300F9BE17 /* EcomIAPDemo */,
 				3A2C41B12E34AF0300F9BE17 /* Products */,
 			);
@@ -142,6 +145,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3A9730B22E369DD1007BA1ED /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
